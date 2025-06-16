@@ -1,2 +1,2 @@
 # Portfolio-Puspendu Nayak
-[Port Folio Link](https://puspendu-nayak.vercel.app/)
+🌟 Portfolio: [puspendu-nayak.vercel.app](https://puspendu-nayak.vercel.app/)  

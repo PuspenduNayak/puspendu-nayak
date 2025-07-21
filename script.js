@@ -109,6 +109,10 @@ const skillData = [
         name: "Python",
         img: "./assets2/img/other_lang3.png",
       },
+      {
+        name: "Kotlin",
+        img: "./assets2/img/other_lang4.png",
+      },
     ],
   },
   {

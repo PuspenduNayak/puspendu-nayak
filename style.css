@@ -833,3 +833,7 @@ footer {
     font-size: 16px;
   }
 }
+
+.warning-text {
+  color: red;
+}

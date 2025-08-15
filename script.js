@@ -73,24 +73,41 @@ const skillData = [
     title: "Backend",
     data: [
       {
-        name: "Nodejs",
-        img: "./assets2/img/backend-4.png",
-      },
-      {
-        name: "Express js",
+        name: "Spring Boot",
         img: "./assets2/img/backend-1.png",
       },
       {
-        name: "Spring Boot",
-        img: "./assets2/img/backend-5.png",
-      },
-      {
-        name: "Mongodb",
+        name: "JSP and Servlet",
         img: "./assets2/img/backend-2.png",
       },
       {
-        name: "MySql",
+        name: "Express js",
         img: "./assets2/img/backend-3.png",
+      },
+      {
+        name: "Nodejs",
+        img: "./assets2/img/backend-4.png",
+      },
+    ],
+  },
+  {
+    title: "Database",
+    data: [
+      {
+        name: "Mongodb",
+        img: "./assets2/img/database-1.png",
+      },
+      {
+        name: "MySql",
+        img: "./assets2/img/database-2.png",
+      },
+      {
+        name: "JDBC",
+        img: "./assets2/img/database-3.png",
+      },
+      {
+        name: "Hibernate",
+        img: "./assets2/img/database-4.png",
       },
     ],
   },
@@ -186,6 +203,7 @@ populate(skillData[0], skillSection);
 populate(skillData[1], skillSection);
 populate(skillData[2], skillSection);
 populate(skillData[3], skillSection);
+populate(skillData[4], skillSection);
 
 // send mail
 const initializeEmail = () => {

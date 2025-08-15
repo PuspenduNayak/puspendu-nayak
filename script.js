@@ -155,6 +155,10 @@ const skillData = [
         name: "Intellij IDEA",
         img: "./assets2/img/other-6.jpg",
       },
+      {
+        name: "Postman",
+        img: "./assets2/img/postman.png",
+      },
     ],
   },
 ];
